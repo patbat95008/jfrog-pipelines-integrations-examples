@@ -21,6 +21,8 @@ gettext \
 smbclient \
 mercurial
 
+echo "My name is Patrick and THIS is my code commit!"
+
 echo "================= Installing Python packages =================="
 apt-get install -q -y \
 python-pip \
